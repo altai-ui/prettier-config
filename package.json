@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": false,
   "author": "Qvant Frontend team",
-  "license": "apache-2.0",
+  "license": "Apache-2.0",
   "prettier": "./index.json",
   "scripts": {
     "prettier": "prettier --check --ignore-unknown '**/*'",
@@ -17,5 +17,18 @@
     "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1"
-  }
+  },
+  "description": "A Prettier config we use for our projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qvant-lab/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/Qvant-lab/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Qvant-lab/prettier-config#readme"
 }
