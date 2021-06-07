@@ -11,12 +11,12 @@
     "prepare": "husky install"
   },
   "peerDependencies": {
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.1"
   },
   "devDependencies": {
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
-    "prettier": "^2.3.0"
+    "prettier": "^2.3.1"
   },
   "description": "A Prettier config we use for our projects",
   "repository": {
