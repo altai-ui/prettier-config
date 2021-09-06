@@ -14,11 +14,11 @@
     "prettier": "^2.3.2"
   },
   "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
     "husky": "^7.0.2",
     "lint-staged": "^11.1.2",
-    "prettier": "^2.3.2",
-    "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0"
+    "prettier": "^2.3.2"
   },
   "description": "A Prettier config we use for our projects",
   "repository": {
