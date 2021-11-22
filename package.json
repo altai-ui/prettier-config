@@ -17,7 +17,7 @@
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
     "husky": "^7.0.4",
-    "lint-staged": "^12.0.2",
+    "lint-staged": "^12.1.2",
     "prettier": "^2.4.1"
   },
   "description": "A Prettier config we use for our projects",
