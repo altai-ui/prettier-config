@@ -8,7 +8,8 @@
   "scripts": {
     "prettier": "prettier --check --ignore-unknown '**/*'",
     "prettier:fix": "prettier --write --ignore-unknown '**/*'",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "release-it"
   },
   "peerDependencies": {
     "prettier": "^2.5.1"
@@ -18,7 +19,8 @@
     "@commitlint/config-conventional": "^16.0.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.1.7",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "release-it": "^14.12.3"
   },
   "description": "A Prettier config we use for our projects",
   "repository": {
