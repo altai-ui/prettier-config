@@ -12,7 +12,7 @@
     "release": "release-it"
   },
   "peerDependencies": {
-    "prettier": "^2.5.1"
+    "prettier": "^2.6.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.3",
