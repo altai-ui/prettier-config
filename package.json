@@ -12,14 +12,14 @@
     "release": "release-it"
   },
   "peerDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.2.0",
     "@commitlint/config-conventional": "^17.2.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.0",
     "release-it": "^15.5.0"
   },
   "description": "A Prettier config we use for our projects",
